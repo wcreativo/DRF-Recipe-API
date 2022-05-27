@@ -1,2 +1,3 @@
-# recipe-app-api
-Recipe API project
+# DRF Recipe API
+
+DRF project with TDD and GitHub Actions
