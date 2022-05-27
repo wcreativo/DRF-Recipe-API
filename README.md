@@ -1,3 +1,3 @@
 # DRF Recipe API
 
-DRF project with TDD and GitHub Actions
+DRF project implementing TDD, GitHub Actions and docker-compose
