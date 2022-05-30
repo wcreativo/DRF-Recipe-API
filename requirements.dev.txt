@@ -5,3 +5,4 @@ ipython==8.3.0
 isort==5.10.1
 pyflakes==2.4.0
 pylama==8.3.8
+drf-spectacular>=0.15.1,<0.16
